@@ -1,1 +1,2 @@
 # Student-Management-System
+This program effectively demonstrates the integration of a MySQL database with a Tkinter-based GUI to create a simple yet functional student management system. The system allows for basic CRUD (Create, Read, Update, Delete) operations on student records. The code is structured to handle user input through a graphical interface and to interact with a backend database for persistent data storage. Error handling and user feedback mechanisms are incorporated using Tkinter's message boxes, ensuring a more user-friendly experience.
